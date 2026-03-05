@@ -6,7 +6,7 @@ I'm a software engineer and architect. I'm passionate about sharing knowledge, d
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
 - 🌱 I’m currently learning JavaScript, React.js, Next.js and Vue.js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-End Engineer, or UI Engineer (Intern or Junior level).
@@ -14,5 +14,5 @@ I'm a software engineer and architect. I'm passionate about sharing knowledge, d
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaymieblaze&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Kehinde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymieblaze&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="Kehinde's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaymieblaze&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Kehinde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaymieblaze&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="Kehinde's GitHub stats" /> |
 | ------------- | ------------- |
